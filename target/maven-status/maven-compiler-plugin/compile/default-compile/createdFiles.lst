@@ -1,0 +1,8 @@
+com\emergentes\bean\BeanContacto.class
+com\emergentes\entidad\Contacto.class
+com\emergentesjpa\exceptions\NonexistentEntityException.class
+com\emergentes\entidad\Contacto_.class
+com\emergentesjpa\exceptions\IllegalOrphanException.class
+com\emergentes\jpa\ContactoJpaController.class
+com\emergentes\controller\MainController.class
+com\emergentesjpa\exceptions\PreexistingEntityException.class
